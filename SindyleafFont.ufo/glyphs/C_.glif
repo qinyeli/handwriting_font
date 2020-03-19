@@ -2,4 +2,41 @@
 <glyph name="C" format="2">
 	<unicode hex="0043"/>
 	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="228.3441" y="8.66699" type="curve"/>
+			<point x="326.5509" y="-17.0154"/>
+			<point x="412.72519" y="61.1414"/>
+			<point x="450.9906" y="144.0405" type="curve"/>
+			<point x="461.7413" y="167.3309"/>
+			<point x="434.70029" y="191.1255"/>
+			<point x="414.48669" y="172.2058" type="curve"/>
+			<point x="369.38229" y="129.9866"/>
+			<point x="316.74869" y="53.4814"/>
+			<point x="245.54691" y="71.0663" type="curve"/>
+			<point x="168.23" y="90.1605"/>
+			<point x="141.8372" y="177.2394"/>
+			<point x="150.4749" y="247.3083" type="curve"/>
+			<point x="165.56821" y="369.75589"/>
+			<point x="277.2009" y="575.04938"/>
+			<point x="423.8446" y="473.21841" type="curve"/>
+			<point x="438.12561" y="463.30139"/>
+			<point x="451.59421" y="481.98611"/>
+			<point x="445.54321" y="494.9176" type="curve"/>
+			<point x="406.18231" y="579.03082"/>
+			<point x="291.01871" y="568.71832"/>
+			<point x="226.76331" y="522.02332" type="curve"/>
+			<point x="142.69411" y="460.92831"/>
+			<point x="91.1188" y="334.4635"/>
+			<point x="84.66" y="233.73109" type="curve"/>
+			<point x="78.5309" y="138.14149"/>
+			<point x="130.0488" y="34.3726"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-03-19 07:25:10 +0000</string>
+		</dict>
+	</lib>
 </glyph>

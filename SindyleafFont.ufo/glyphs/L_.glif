@@ -2,4 +2,35 @@
 <glyph name="L" format="2">
 	<unicode hex="004C"/>
 	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="531.09918" y="75.7202" type="curve"/>
+			<point x="423.65231" y="76.6681"/>
+			<point x="316.04739" y="76.5009"/>
+			<point x="208.6499" y="72.2461" type="curve"/>
+			<point x="233.5938" y="237.5739"/>
+			<point x="256.8689" y="405.4187"/>
+			<point x="260.50351" y="572.42981" type="curve"/>
+			<point x="260.9021" y="590.74402"/>
+			<point x="230.88071" y="595.76172"/>
+			<point x="227.7399" y="576.8634" type="curve"/>
+			<point x="198.5956" y="401.47641"/>
+			<point x="178.60291" y="224.78391"/>
+			<point x="146.9641" y="49.693" type="curve"/>
+			<point x="143.728" y="31.7859"/>
+			<point x="154.6924" y="12.5079"/>
+			<point x="174.9408" y="12.9669" type="curve"/>
+			<point x="293.76099" y="15.6598"/>
+			<point x="412.3053" y="16.9769"/>
+			<point x="531.09918" y="12.2827" type="curve"/>
+			<point x="571.81702" y="10.6732"/>
+			<point x="572.04529" y="75.3583"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-03-19 07:30:06 +0000</string>
+		</dict>
+	</lib>
 </glyph>

@@ -12,14 +12,22 @@
 		<string>New Font</string>
 		<key>openTypeHeadCreated</key>
 		<string>2020/03/18 22:27:09</string>
+		<key>openTypeNamePreferredSubfamilyName</key>
+		<string>Regular</string>
+		<key>openTypeOS2WeightClass</key>
+		<integer>400</integer>
+		<key>openTypeOS2WidthClass</key>
+		<integer>5</integer>
 		<key>postscriptBlueValues</key>
 		<array>
 		</array>
 		<key>postscriptFontName</key>
-		<string>New Font-Regular</string>
+		<string>NewFont-Regular</string>
 		<key>postscriptOtherBlues</key>
 		<array>
 		</array>
+		<key>styleMapStyleName</key>
+		<string>regular</string>
 		<key>styleName</key>
 		<string>Regular</string>
 		<key>unitsPerEm</key>

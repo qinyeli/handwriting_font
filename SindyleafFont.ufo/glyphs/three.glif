@@ -2,4 +2,62 @@
 <glyph name="three" format="2">
 	<unicode hex="0033"/>
 	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="355.28201" y="214.40669" type="curve"/>
+			<point x="338.7207" y="222.8943"/>
+			<point x="321.26401" y="229.0381"/>
+			<point x="303.4119" y="233.2587" type="curve"/>
+			<point x="351.52649" y="274.41589"/>
+			<point x="388.28491" y="329.4202"/>
+			<point x="362.49689" y="386.26401" type="curve"/>
+			<point x="338.12991" y="439.9744"/>
+			<point x="236.6333" y="512.58612"/>
+			<point x="192.3022" y="443.96481" type="curve"/>
+			<point x="181.03391" y="426.52161"/>
+			<point x="207.8833" y="405.02261"/>
+			<point x="221.50571" y="421.4325" type="curve"/>
+			<point x="240.9583" y="444.8663"/>
+			<point x="296.05829" y="402.55069"/>
+			<point x="305.62259" y="386.38489" type="curve"/>
+			<point x="326.2146" y="351.58081"/>
+			<point x="317.05811" y="327.3389"/>
+			<point x="292.16309" y="298.67371" type="curve"/>
+			<point x="265.4346" y="267.8967"/>
+			<point x="231.0162" y="244.4104"/>
+			<point x="192.0062" y="232.46519" type="curve"/>
+			<point x="153.772" y="220.7574"/>
+			<point x="170.0867" y="167.2406"/>
+			<point x="208.23061" y="173.6133" type="curve"/>
+			<point x="244.24561" y="179.6301"/>
+			<point x="278.4491" y="178.6761"/>
+			<point x="312.66721" y="164.7028" type="curve"/>
+			<point x="326.77921" y="158.9398"/>
+			<point x="354.52029" y="143.11951"/>
+			<point x="345.6622" y="121.9775" type="curve"/>
+			<point x="342.15329" y="113.6023"/>
+			<point x="308.36429" y="95.6427"/>
+			<point x="299.3335" y="90.3436" type="curve"/>
+			<point x="246.7963" y="59.5135"/>
+			<point x="187.049" y="57.9742"/>
+			<point x="134.9109" y="31.5295" type="curve"/>
+			<point x="113.927" y="20.8868"/>
+			<point x="118.5327" y="-14.4897"/>
+			<point x="141.57291" y="-19.4476" type="curve"/>
+			<point x="192.6465" y="-30.4376"/>
+			<point x="250.08971" y="-4.82727"/>
+			<point x="295.92529" y="16.7206" type="curve"/>
+			<point x="336.25119" y="35.6781"/>
+			<point x="399.43301" y="67.9376"/>
+			<point x="417.28879" y="112.1454" type="curve"/>
+			<point x="436.20001" y="158.9642"/>
+			<point x="392.30411" y="195.43401"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-03-19 07:50:43 +0000</string>
+		</dict>
+	</lib>
 </glyph>

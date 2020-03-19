@@ -2,4 +2,35 @@
 <glyph name="V" format="2">
 	<unicode hex="0056"/>
 	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="296.59119" y="32.2906" type="curve"/>
+			<point x="361.2067" y="198.34531"/>
+			<point x="427.1008" y="366.4624"/>
+			<point x="483.0072" y="535.62189" type="curve"/>
+			<point x="491.7963" y="562.21503"/>
+			<point x="448.33371" y="581.43011"/>
+			<point x="437.0282" y="555.0061" type="curve"/>
+			<point x="377.3248" y="415.47119"/>
+			<point x="323.32889" y="271.93179"/>
+			<point x="270.5798" y="129.0607" type="curve"/>
+			<point x="226.4539" y="270.26981"/>
+			<point x="187.5946" y="413.01819"/>
+			<point x="150.5981" y="556.28601" type="curve"/>
+			<point x="144.87849" y="578.43689"/>
+			<point x="113.0334" y="568.80432"/>
+			<point x="116.8488" y="546.9812" type="curve"/>
+			<point x="147.28149" y="372.91321"/>
+			<point x="190.5762" y="201.7072"/>
+			<point x="240.603" y="32.2906" type="curve"/>
+			<point x="249.2462" y="3.02124"/>
+			<point x="286.58331" y="6.57043"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-03-19 07:35:59 +0000</string>
+		</dict>
+	</lib>
 </glyph>

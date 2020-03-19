@@ -2,4 +2,62 @@
 <glyph name="h" format="2">
 	<unicode hex="0068"/>
 	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="476.4679" y="184.34331" type="curve"/>
+			<point x="465.5383" y="150.7019"/>
+			<point x="444.46719" y="100.8344"/>
+			<point x="413.689" y="79.6533" type="curve"/>
+			<point x="349.95911" y="35.7959"/>
+			<point x="346.7706" y="141.50571"/>
+			<point x="343.3862" y="176.3885" type="curve"/>
+			<point x="339.85471" y="212.7863"/>
+			<point x="327.90219" y="249.2554"/>
+			<point x="283.03281" y="237.453" type="curve"/>
+			<point x="247.60249" y="228.1335"/>
+			<point x="211.6528" y="199.8389"/>
+			<point x="182.4231" y="170.46629" type="curve"/>
+			<point x="214.6552" y="273.91049"/>
+			<point x="248.1006" y="376.9769"/>
+			<point x="282.9834" y="479.55991" type="curve"/>
+			<point x="289.74731" y="499.45129"/>
+			<point x="259.15341" y="507.22601"/>
+			<point x="251.8701" y="488.13779" type="curve"/>
+			<point x="195.5786" y="340.60849"/>
+			<point x="143.0005" y="191.79201"/>
+			<point x="93.3954" y="41.911" type="curve"/>
+			<point x="84.4531" y="21.1743"/>
+			<point x="77.2809" y="-0.39429"/>
+			<point x="72.0074" y="-22.7155" type="curve"/>
+			<point x="64.6564" y="-53.8293"/>
+			<point x="110.9766" y="-66.7505"/>
+			<point x="119.964" y="-35.9363" type="curve"/>
+			<point x="139.7565" y="37.9431"/>
+			<point x="178.8092" y="104.0295"/>
+			<point x="238.88" y="152.32851" type="curve"/>
+			<point x="250.5975" y="161.7493"/>
+			<point x="268.60349" y="178.5889"/>
+			<point x="283.2001" y="182.17039" type="curve"/>
+			<point x="296.95621" y="193.8403"/>
+			<point x="300.4108" y="191.9128"/>
+			<point x="293.5632" y="176.3885" type="curve"/>
+			<point x="293.6163" y="170.7605"/>
+			<point x="293.66879" y="165.1324"/>
+			<point x="293.72189" y="159.5038" type="curve"/>
+			<point x="294.1138" y="127.0819"/>
+			<point x="301.92261" y="94.1052"/>
+			<point x="314.77051" y="64.436" type="curve"/>
+			<point x="378.12491" y="-81.8671"/>
+			<point x="506.1615" y="85.6604"/>
+			<point x="528.67432" y="169.95061" type="curve"/>
+			<point x="537.71613" y="203.80251"/>
+			<point x="487.1893" y="217.34621"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-03-19 07:40:53 +0000</string>
+		</dict>
+	</lib>
 </glyph>

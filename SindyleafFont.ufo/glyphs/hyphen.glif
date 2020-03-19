@@ -2,4 +2,32 @@
 <glyph name="hyphen" format="2">
 	<unicode hex="002D"/>
 	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="445.62811" y="304.09299" type="curve"/>
+			<point x="391.8121" y="303.49121"/>
+			<point x="337.77951" y="288.59189"/>
+			<point x="284.267" y="282.7753" type="curve"/>
+			<point x="235.1031" y="277.43161"/>
+			<point x="184.8474" y="277.07639"/>
+			<point x="136.3275" y="267.29431" type="curve"/>
+			<point x="121.0913" y="264.22241"/>
+			<point x="120.7721" y="239.02341"/>
+			<point x="136.3275" y="236.181" type="curve"/>
+			<point x="188.0267" y="226.73579"/>
+			<point x="241.6937" y="230.84779"/>
+			<point x="293.81769" y="235.011" type="curve"/>
+			<point x="345.55969" y="239.1443"/>
+			<point x="402.80579" y="241.2372"/>
+			<point x="451.66141" y="259.51291" type="curve"/>
+			<point x="474.4696" y="268.04568"/>
+			<point x="472.77591" y="304.397"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-03-19 07:52:10 +0000</string>
+		</dict>
+	</lib>
 </glyph>

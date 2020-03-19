@@ -92,6 +92,10 @@
 		<string>m.glif</string>
 		<key>n</key>
 		<string>n.glif</string>
+		<key>newGlyph</key>
+		<string>newG_lyph.glif</string>
+		<key>newGlyph.001</key>
+		<string>newG_lyph.001.glif</string>
 		<key>nine</key>
 		<string>nine.glif</string>
 		<key>o</key>

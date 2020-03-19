@@ -2,4 +2,64 @@
 <glyph name="a" format="2">
 	<unicode hex="0061"/>
 	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="512" y="93" type="curve"/>
+			<point x="429" y="120"/>
+			<point x="437" y="220"/>
+			<point x="445" y="289" type="curve"/>
+			<point x="447" y="302"/>
+			<point x="439" y="310"/>
+			<point x="428" y="312" type="curve"/>
+			<point x="429" y="334"/>
+			<point x="424" y="354"/>
+			<point x="408" y="374" type="curve"/>
+			<point x="381" y="408"/>
+			<point x="332" y="414"/>
+			<point x="292" y="402" type="curve"/>
+			<point x="187" y="370"/>
+			<point x="131" y="230"/>
+			<point x="124" y="131" type="curve"/>
+			<point x="121" y="89"/>
+			<point x="124" y="39"/>
+			<point x="160" y="11" type="curve"/>
+			<point x="196" y="-16"/>
+			<point x="247" y="-6"/>
+			<point x="283" y="16" type="curve"/>
+			<point x="337" y="48"/>
+			<point x="373" y="99"/>
+			<point x="399" y="156" type="curve"/>
+			<point x="410" y="105"/>
+			<point x="439" y="62"/>
+			<point x="499" y="47" type="curve"/>
+			<point x="529" y="40"/>
+			<point x="541" y="83"/>
+		</contour>
+		<contour>
+			<point x="327" y="129" type="curve"/>
+			<point x="294" y="78"/>
+			<point x="176" y="-15"/>
+			<point x="172" y="106" type="curve"/>
+			<point x="170" y="180"/>
+			<point x="201" y="261"/>
+			<point x="251" y="316" type="curve"/>
+			<point x="277" y="345"/>
+			<point x="313" y="372"/>
+			<point x="354" y="358" type="curve"/>
+			<point x="379" y="350"/>
+			<point x="393" y="327"/>
+			<point x="400" y="302" type="curve"/>
+			<point x="399" y="300"/>
+			<point x="397" y="298"/>
+			<point x="397" y="296" type="curve"/>
+			<point x="379" y="238"/>
+			<point x="361" y="179"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-03-19 07:38:04 +0000</string>
+		</dict>
+	</lib>
 </glyph>

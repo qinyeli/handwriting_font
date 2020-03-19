@@ -2,4 +2,62 @@
 <glyph name="w" format="2">
 	<unicode hex="0077"/>
 	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="525" y="436" type="curve"/>
+			<point x="533" y="367"/>
+			<point x="515" y="227"/>
+			<point x="456" y="179" type="curve"/>
+			<point x="355" y="99"/>
+			<point x="339" y="310"/>
+			<point x="331" y="366" type="curve"/>
+			<point x="326" y="399"/>
+			<point x="281" y="391"/>
+			<point x="272" y="366" type="curve"/>
+			<point x="252" y="314"/>
+			<point x="231" y="264"/>
+			<point x="207" y="215" type="curve"/>
+			<point x="197" y="193"/>
+			<point x="185" y="172"/>
+			<point x="174" y="150" type="curve"/>
+			<point x="160" y="125"/>
+			<point x="137" y="63"/>
+			<point x="95" y="114" type="curve"/>
+			<point x="68" y="147"/>
+			<point x="82" y="234"/>
+			<point x="84" y="275" type="curve"/>
+			<point x="86" y="335"/>
+			<point x="94" y="396"/>
+			<point x="104" y="455" type="curve"/>
+			<point x="108" y="475"/>
+			<point x="78" y="484"/>
+			<point x="74" y="464" type="curve"/>
+			<point x="53" y="377"/>
+			<point x="39" y="289"/>
+			<point x="35" y="200" type="curve"/>
+			<point x="32" y="142"/>
+			<point x="33" y="71"/>
+			<point x="94" y="44" type="curve"/>
+			<point x="154" y="17"/>
+			<point x="193" y="66"/>
+			<point x="221" y="113" type="curve"/>
+			<point x="246" y="157"/>
+			<point x="269" y="202"/>
+			<point x="289" y="249" type="curve"/>
+			<point x="310" y="167"/>
+			<point x="351" y="63"/>
+			<point x="451" y="96" type="curve"/>
+			<point x="563" y="132"/>
+			<point x="602" y="335"/>
+			<point x="593" y="436" type="curve"/>
+			<point x="589" y="479"/>
+			<point x="520" y="479"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-03-19 07:47:15 +0000</string>
+		</dict>
+	</lib>
 </glyph>
