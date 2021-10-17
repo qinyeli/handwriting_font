@@ -1,6 +1,6 @@
 # Sindy's Handwriting Font
 
-**Status**: work in progress
+**Status**: forgotten
 
 This is how the first edition of the font look like
 ![](images/example-200319.png)
